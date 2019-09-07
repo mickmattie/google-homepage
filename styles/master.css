@@ -1,0 +1,22 @@
+li {
+  display: inline-block;
+  color: #000;
+}
+
+.google-logo {
+  position: fixed;
+  left: 50%;
+  top: 33%;
+  transform: translate(-50%,-50%);
+  width: 20%;
+}
+
+.left {
+  float: left;
+  padding-left:15px;
+}
+
+.right {
+  float: right;
+  padding-right: 15px;
+}
